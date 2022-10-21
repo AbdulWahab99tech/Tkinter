@@ -10,5 +10,4 @@ def popup():
 
 b=Button(root, text="click", command=popup)
 b.pack()
-
 root.mainloop()
